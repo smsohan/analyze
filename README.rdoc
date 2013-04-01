@@ -1,3 +1,6 @@
 = Analyze
 
-This project rocks and uses MIT-LICENSE.
+== Dead-Simple Click Tracking for Ruby on Rails
+
+
+This project uses MIT-LICENSE.
