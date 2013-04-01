@@ -7,11 +7,11 @@ require "analyze/version"
 Gem::Specification.new do |s|
   s.name        = "analyze"
   s.version     = Analyze::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Analyze."
-  s.description = "TODO: Description of Analyze."
+  s.authors     = ["SM Sohan"]
+  s.email       = ["sohan39@gmail.com"]
+  s.homepage    = "https://github.com/smsohan/analyze"
+  s.summary     = "A dead-simple analytics library for tracking user visits both on the server side and JavaScript API"
+  s.description = "A dead-simple analytics library for Ruby on Rails"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
